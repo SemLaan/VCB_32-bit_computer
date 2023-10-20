@@ -6,3 +6,6 @@ Screenshot of the computer busy rendering a circle:
   
 Screenshot of the design of the computer:
 ![alt text](https://github.com/SemLaan/VCB_32-bit_computer/blob/main/architecture.png?raw=true)
+  
+Screenshot of the control lines that each instruction asserts:
+![alt text](https://github.com/SemLaan/VCB_32-bit_computer/blob/main/control_signals.png?raw=true)
